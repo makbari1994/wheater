@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.weather-card, .forecast-card {
+  margin: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
